@@ -4,4 +4,4 @@ beautifulsoup4==4.10.0
 pytube==11.0.1
 youtube-search==2.1.0
 eyeD3==0.9.6
-tqdm==4.62.2
+tqdm==4.66.3
